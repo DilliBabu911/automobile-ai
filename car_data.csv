@@ -1,0 +1,9 @@
+complaint,issue,severity,estimated_cost
+"Grinding noise when braking",Worn brake pads,High,"$150 - $300"
+"White smoke from exhaust",Blown head gasket,High,"$1000 - $2000"
+"Car won't start",Dead battery,Medium,"$100 - $200"
+"Engine light on",Faulty oxygen sensor,Medium,"$200 - $400"
+"Car vibrates at high speed",Unbalanced tires,Low,"$50 - $100"
+"Oil leak under car",Worn gasket or seal,High,"$150 - $500"
+"AC not cooling",Low refrigerant,Medium,"$150 - $300"
+"Squeaking noise when turning",Worn power steering belt,Medium,"$100 - $250"
